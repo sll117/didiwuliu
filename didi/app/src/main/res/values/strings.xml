@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">滴滴物流</string>
+
+    <!--    login-->
+    <string name="title_activity_login">登录</string>
+    <string name="prompt_account">请输入手机号</string>
+    <string name="prompt_password">请输入密码</string>
+    <string name="action_sign_in">登录</string>
+    <string name="action_sign_in_short">登录</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_account">手机号不合法</string>
+    <string name="invalid_password">密码长度为8&#8211;16个字符必须包含字母和数字</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="radio_btn_owner">货主</string>
+    <string name="radio_btn_driver">货车司机</string>
+    <string name="action_register">注册</string>
+
+    <!--    register-->
+    <string name="prompt_nick_name">请输入昵称</string>
+    <string name="title_activity_register">注册</string>
+    <string name="invalid_nick_name">昵称不合法,必须为2-16个字符,不能包含空格和特殊字符</string>
+    <!--user-->
+    <string name="account">账号:</string>
+    <string name="nick_name">昵称:</string>
+    <string name="sex">性别:</string>
+    <string name="phone">手机:</string>
+    <string name="logout">注销</string>
+
+    <!--    home-->
+    <string name="edit">编辑</string>
+
+    <string name="done">完成</string>
+    <string name="add">添加</string>
+
+    <string name="start">起点:</string>
+    <string name="end">终点:</string>
+    <string name="search">搜索</string>
+
+    <string name="pay">付款</string>
+    <string name="path">路线:</string>
+    <string name="balance">余额:￥</string>
+    <string name="yuan">元</string>
+<!--    driverDetail-->
+    <string name="prompt_weight">请输入货物重量</string>
+    <string name="kilo">公斤</string>
+    <string name="price">价格:</string>
+    <string name="carriageUnit">元/公斤</string>
+
+<!--    edit-->
+    <string name="prompt_location">地点</string>
+    <string name="prompt_carriage">运费(每公斤)</string>
+
+    <string name="order_id">订单号:</string>
+    <string name="add_balance">充值</string>
+    <string name="prompt_add_balance">充值金额</string>
+    <string name="goods_weight">货物重量:</string>
+
+    <string name="pay_money">付款金额</string>
+    <string name="money_sign">￥</string>
+    <string name="owner">货主:</string>
+    <string name="deriver">司机:</string>
+    <string name="title_home">主页</string>
+    <string name="title_notification">订单</string>
+    <string name="title_user">我</string>
+</resources>

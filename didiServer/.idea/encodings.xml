@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/zzl/Filter.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/zzl/dao/MySql.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/zzl/servlet/LoginServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/zzl/servlet/OrderItemServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/zzl/servlet/OrderServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/zzl/servlet/RegisterServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/zzl/servlet/SearchServlet.java" charset="GBK" />
+  </component>
+</project>

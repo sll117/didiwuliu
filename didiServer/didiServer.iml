@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="jar://$MODULE_DIR$/../../Program Files/MYSQL/mysql-connector-java-8.0.22/mysql-connector-java-8.0.22.jar!/" />
+    <libelement value="file://$MODULE_DIR$/../../didiServer-master/lib/javax.annotation.jar" />
+    <libelement value="file://$MODULE_DIR$/../../didiServer-master/lib/javax.ejb.jar" />
+    <libelement value="file://$MODULE_DIR$/../../didiServer-master/lib/javax.jms.jar" />
+    <libelement value="file://$MODULE_DIR$/../../didiServer-master/lib/javax.persistence.jar" />
+    <libelement value="file://$MODULE_DIR$/../../didiServer-master/lib/javax.resource.jar" />
+    <libelement value="file://$MODULE_DIR$/../../didiServer-master/lib/javax.servlet.jar" />
+    <libelement value="file://$MODULE_DIR$/../../didiServer-master/lib/javax.servlet.jsp.jar" />
+    <libelement value="file://$MODULE_DIR$/../../didiServer-master/lib/javax.servlet.jsp.jstl.jar" />
+    <libelement value="file://$MODULE_DIR$/../../didiServer-master/lib/javax.transaction.jar" />
+    <libelement value="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/gson-2.8.6.jar!/" />
+    <conelement value="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v9.0" />
+    <conelement value="org.eclipse.jst.j2ee.internal.web.container" />
+    <conelement value="org.eclipse.jst.j2ee.internal.module.container" />
+    <src_description expected_position="0">
+      <src_folder value="file://$MODULE_DIR$/src" expected_position="0" />
+    </src_description>
+  </component>
+  <component name="FacetManager">
+    <facet type="web" name="Web">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/WebContent/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/WebContent" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/build/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="library" name="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v9.0" level="application" />
+    <orderEntry type="library" name="org.eclipse.jst.j2ee.internal.web.container" level="application" />
+    <orderEntry type="library" name="org.eclipse.jst.j2ee.internal.module.container" level="application" />
+    <orderEntry type="module-library">
+      <library name="mysql-connector-java-8.0.22.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../Program Files/MYSQL/mysql-connector-java-8.0.22/mysql-connector-java-8.0.22.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="javax.annotation.jar">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../didiServer-master/lib/javax.annotation.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="javax.ejb.jar">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../didiServer-master/lib/javax.ejb.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="javax.jms.jar">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../didiServer-master/lib/javax.jms.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="javax.persistence.jar">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../didiServer-master/lib/javax.persistence.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="javax.resource.jar">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../didiServer-master/lib/javax.resource.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="javax.servlet.jar">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../didiServer-master/lib/javax.servlet.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="javax.servlet.jsp.jar">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../didiServer-master/lib/javax.servlet.jsp.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="javax.servlet.jsp.jstl.jar">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../didiServer-master/lib/javax.servlet.jsp.jstl.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="javax.transaction.jar">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../didiServer-master/lib/javax.transaction.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="gson-2.8.6.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/gson-2.8.6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="Java EE 6-Java EE 6" level="project" />
+  </component>
+</module>

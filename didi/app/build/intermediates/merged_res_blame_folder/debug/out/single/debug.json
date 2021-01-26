@@ -1,0 +1,202 @@
+[
+    {
+        "merged": "F:\\didi\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home_owner.xml.flat",
+        "source": "F:\\didi\\app\\src\\main\\res\\layout\\fragment_home_owner.xml"
+    },
+    {
+        "merged": "F:\\didi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_btn.xml.flat",
+        "source": "F:\\didi\\app\\src\\main\\res\\drawable\\round_btn.xml"
+    },
+    {
+        "merged": "F:\\didi\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\didi\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\didi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_home_black_24dp.xml.flat",
+        "source": "F:\\didi\\app\\src\\main\\res\\drawable\\ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "F:\\didi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_password_24dp.xml.flat",
+        "source": "F:\\didi\\app\\src\\main\\res\\drawable\\ic_password_24dp.xml"
+    },
+    {
+        "merged": "F:\\didi\\app\\build\\intermediates\\res\\merged\\debug\\layout_location_item.xml.flat",
+        "source": "F:\\didi\\app\\src\\main\\res\\layout\\location_item.xml"
+    },
+    {
+        "merged": "F:\\didi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_account.png.flat",
+        "source": "F:\\didi\\app\\src\\main\\res\\drawable\\account.png"
+    },
+    {
+        "merged": "F:\\didi\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_edit.xml.flat",
+        "source": "F:\\didi\\app\\src\\main\\res\\menu\\menu_edit.xml"
+    },
+    {
+        "merged": "F:\\didi\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_user.xml.flat",
+        "source": "F:\\didi\\app\\src\\main\\res\\layout\\fragment_user.xml"
+    },
+    {
+        "merged": "F:\\didi\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "F:\\didi\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "F:\\didi\\app\\build\\intermediates\\res\\merged\\debug\\menu_bottom_nav_menu.xml.flat",
+        "source": "F:\\didi\\app\\src\\main\\res\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "F:\\didi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_dashboard_black_24dp.xml.flat",
+        "source": "F:\\didi\\app\\src\\main\\res\\drawable\\ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "F:\\didi\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\didi\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\didi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_white_border.xml.flat",
+        "source": "F:\\didi\\app\\src\\main\\res\\drawable\\white_border.xml"
+    },
+    {
+        "merged": "F:\\didi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gray_divider.xml.flat",
+        "source": "F:\\didi\\app\\src\\main\\res\\drawable\\gray_divider.xml"
+    },
+    {
+        "merged": "F:\\didi\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "F:\\didi\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\didi\\app\\build\\intermediates\\res\\merged\\debug\\layout_order_item.xml.flat",
+        "source": "F:\\didi\\app\\src\\main\\res\\layout\\order_item.xml"
+    },
+    {
+        "merged": "F:\\didi\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_driver_detail.xml.flat",
+        "source": "F:\\didi\\app\\src\\main\\res\\layout\\activity_driver_detail.xml"
+    },
+    {
+        "merged": "F:\\didi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_selector.xml.flat",
+        "source": "F:\\didi\\app\\src\\main\\res\\drawable\\btn_selector.xml"
+    },
+    {
+        "merged": "F:\\didi\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "F:\\didi\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "F:\\didi\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_add_balance.xml.flat",
+        "source": "F:\\didi\\app\\src\\main\\res\\layout\\dialog_add_balance.xml"
+    },
+    {
+        "merged": "F:\\didi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_person_24dp.xml.flat",
+        "source": "F:\\didi\\app\\src\\main\\res\\drawable\\ic_person_24dp.xml"
+    },
+    {
+        "merged": "F:\\didi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_password.png.flat",
+        "source": "F:\\didi\\app\\src\\main\\res\\drawable\\password.png"
+    },
+    {
+        "merged": "F:\\didi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_selector_red.xml.flat",
+        "source": "F:\\didi\\app\\src\\main\\res\\drawable\\btn_selector_red.xml"
+    },
+    {
+        "merged": "F:\\didi\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\didi\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\didi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "F:\\didi\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "F:\\didi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_phone_24dp.xml.flat",
+        "source": "F:\\didi\\app\\src\\main\\res\\drawable\\ic_phone_24dp.xml"
+    },
+    {
+        "merged": "F:\\didi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "F:\\didi\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "F:\\didi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_remove_white_24dp.xml.flat",
+        "source": "F:\\didi\\app\\src\\main\\res\\drawable\\ic_remove_white_24dp.xml"
+    },
+    {
+        "merged": "F:\\didi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_notifications_black_24dp.xml.flat",
+        "source": "F:\\didi\\app\\src\\main\\res\\drawable\\ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "F:\\didi\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
+        "source": "F:\\didi\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "F:\\didi\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "F:\\didi\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "F:\\didi\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home_driver.xml.flat",
+        "source": "F:\\didi\\app\\src\\main\\res\\layout\\fragment_home_driver.xml"
+    },
+    {
+        "merged": "F:\\didi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_done_white_24dp.xml.flat",
+        "source": "F:\\didi\\app\\src\\main\\res\\drawable\\ic_done_white_24dp.xml"
+    },
+    {
+        "merged": "F:\\didi\\app\\build\\intermediates\\res\\merged\\debug\\layout_location_edit_item.xml.flat",
+        "source": "F:\\didi\\app\\src\\main\\res\\layout\\location_edit_item.xml"
+    },
+    {
+        "merged": "F:\\didi\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "F:\\didi\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\didi\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_driver_home.xml.flat",
+        "source": "F:\\didi\\app\\src\\main\\res\\menu\\menu_driver_home.xml"
+    },
+    {
+        "merged": "F:\\didi\\app\\build\\intermediates\\res\\merged\\debug\\navigation_mobile_navigation.xml.flat",
+        "source": "F:\\didi\\app\\src\\main\\res\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "F:\\didi\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_notifications.xml.flat",
+        "source": "F:\\didi\\app\\src\\main\\res\\layout\\fragment_notifications.xml"
+    },
+    {
+        "merged": "F:\\didi\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "F:\\didi\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\didi\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "F:\\didi\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\didi\\app\\build\\intermediates\\res\\merged\\debug\\layout_search_item.xml.flat",
+        "source": "F:\\didi\\app\\src\\main\\res\\layout\\search_item.xml"
+    },
+    {
+        "merged": "F:\\didi\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_edit.xml.flat",
+        "source": "F:\\didi\\app\\src\\main\\res\\layout\\activity_edit.xml"
+    },
+    {
+        "merged": "F:\\didi\\app\\build\\intermediates\\res\\merged\\debug\\xml_network_security_config.xml.flat",
+        "source": "F:\\didi\\app\\src\\main\\res\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "F:\\didi\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "F:\\didi\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\didi\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "F:\\didi\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\didi\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "F:\\didi\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\didi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_add_white_24dp.xml.flat",
+        "source": "F:\\didi\\app\\src\\main\\res\\drawable\\ic_add_white_24dp.xml"
+    },
+    {
+        "merged": "F:\\didi\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_driver.xml.flat",
+        "source": "F:\\didi\\app\\src\\main\\res\\layout\\fragment_driver.xml"
+    },
+    {
+        "merged": "F:\\didi\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "F:\\didi\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    }
+]
